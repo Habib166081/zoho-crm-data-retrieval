@@ -1,0 +1,5 @@
+scope : ZohoCRM.modules.{module_name}.{operation_type}
+
+in our case :
+
+scope : ZohoCRM.modules.leads.ALL
